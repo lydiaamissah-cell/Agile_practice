@@ -48,4 +48,4 @@ pytest
 - `docs/sprint1_review.md`
 - `docs/sprint1_retrospective.md`
 - `docs/sprint2_review.md`
-- `docs/final_retrospective.md`
+- `docs/sprint2_rettr.md`
