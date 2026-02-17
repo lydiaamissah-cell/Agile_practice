@@ -3,3 +3,4 @@
 - Clarified acceptance boundaries.
 - Captured test-first validation approach.
 - Reduced ambiguity for review evidence.
+- Follow-up: clarified list response shape and ordering assumptions.
